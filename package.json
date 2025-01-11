@@ -1,0 +1,14 @@
+{
+  "name": "@ezez/commit-msg",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "./compile.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jacek Nowacki",
+  "license": "MIT",
+  "dependencies": {}
+}
